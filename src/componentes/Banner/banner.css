@@ -1,0 +1,10 @@
+.cabecalho {
+    background-color: rgb(251, 251, 251);
+    text-align: center;
+}
+
+.cabecalho img {
+    max-width: 50%;
+    max-height: 40%;
+
+}
